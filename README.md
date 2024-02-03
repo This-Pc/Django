@@ -1,1 +1,1 @@
-# Author - JASNOOR PAL SINGH
+# Django
